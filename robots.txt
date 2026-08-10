@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: licenzionnye-kazino-s-bystrym-vyvodom.github.io
+Sitemap: https://licenzionnye-kazino-s-bystrym-vyvodom.github.io/sitemap.xml
